@@ -8,4 +8,5 @@ function addUp(num) {
 		i++;
 	}while(i<=num);
 	return result;
+
 }
