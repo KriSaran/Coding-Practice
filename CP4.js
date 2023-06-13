@@ -28,5 +28,5 @@ function LongestWord(sen) {
 
   }
 
-  // keep this function call here
+  // keep this function call hereCP7.js
 console.log(LongestWord(readline()));
